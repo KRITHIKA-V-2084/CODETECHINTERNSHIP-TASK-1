@@ -16,9 +16,11 @@ Mentor: SRAVANI GOUNI
 **PROJECT** :  SIMPLE CALCULATOR
 
 **OBJECTIVE:**
+
 The objective of the above code is to create a basic calculator program in Python that allows users to perform simple arithmetic operations. The program guides the user through entering two numbers and selecting an operation (addition, subtraction, multiplication, division). It then calculates and displays the result of the chosen operation, while handling invalid inputs and division by zero gracefully.
 
 **KEY FEATURES:**
+
 The key activities of the code are:
 
 1. Function Definitions:
